@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FruitSpinner</string>
+    <string name="fruit_selection_label">Select Your Fruit</string>
+    <string name="send_fruit_order_label">Send Order</string>
+    <string name="selected_fruit_label">Fruit Selected:</string>
+</resources>
